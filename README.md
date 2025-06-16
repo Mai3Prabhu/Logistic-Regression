@@ -85,7 +85,7 @@ For each case, the model is built, trained, evaluated, and tuned for better perf
 
 | File Name                           | Description                                  |
 |------------------------------------|----------------------------------------------|
-| `Logistic Regression.ipynb` | Binary classification with tuning | Multiclass classification using LR | Classification with imbalanced dataset | ROC curve, AUC score, threshold analysis  |
+| `Logistic Regression.ipynb` | Classification | 
 | `README.md`                        | Project overview and documentation (this)    |
 
 ---
